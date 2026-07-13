@@ -29,6 +29,13 @@ Desenvolvido para transformar a experiência real de quem gerencia grandes volum
 
 "Mais do que um organizador, o Sistema ANSC é uma fortaleza digital para o conhecimento."
 
+Adquira agora mesmo sua versão de Teste de 15 dias.
+E para adquirir uma licença, entre em contato:
+ansc.new@gmail.com
+https://www.instagram.com/apps_ansc/
+
+Em breve, uma versão mais turbinada! ✔️
+
 
 
 
