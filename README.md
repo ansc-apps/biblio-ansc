@@ -5,6 +5,7 @@ Desenvolvido para transformar a experiência real de quem gerencia grandes volum
 
 💎 Diferenciais Estruturais e Funcionais
 
+
 ⚡ Automação Bibliográfica Inteligente
 
 * Gerador de Códigos Cutter-Sanborn: O app automatiza a extração e aproximação do código Cutter combinando sobrenomes e regras bibliográficas de forma imediata.
@@ -33,6 +34,7 @@ Desenvolvido para transformar a experiência real de quem gerencia grandes volum
 
 Adquira agora mesmo sua versão de Teste de 15 dias.
 E para adquirir uma licença, entre em contato:
+
 ansc.new@gmail.com
 https://www.instagram.com/apps_ansc/
 
