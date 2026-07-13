@@ -3,7 +3,8 @@ Biblio ANSC Basic 1.0
 🚀 Sistema de Gestão de Biblioteca Premium ANSC. A evolução inteligente na catalogação, controle de acervos e segurança de dados.
 Desenvolvido para transformar a experiência real de quem gerencia grandes volumes de livros e dados de leitores, o Sistema de Biblioteca ANSC elimina a burocracia dos processos manuais e introduz um ecossistema digital automatizado, rápido e ultra-seguro. Criado sob os mais modernos conceitos de design futurista e engenharia de software offline, ele entrega alta utilidade sem depender de conexões instáveis com a internet.
 
-💎 Diferenciais Estruturais e Funcionais## ⚡ Automação Bibliográfica Inteligente
+💎 Diferenciais Estruturais e Funcionais
+⚡ Automação Bibliográfica Inteligente
 
 * Gerador de Códigos Cutter-Sanborn: O app automatiza a extração e aproximação do código Cutter combinando sobrenomes e regras bibliográficas de forma imediata.
 * Composição Automática de Nº de Chamada: Criação automática unindo CDD, Código Cutter e Ano de Publicação, dando liberdade total para edição.
